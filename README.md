@@ -7,7 +7,7 @@
   <li><a href="mailto:jcv00036@red.ujaen.es?subject=An interesting subject&body=Your message">Email me</a></li>
 </ul>
 
-<img src = "https://i.imgur.com/sdK61rZ.gif" width="15%" align=right>
+<img src = "https://i.imgur.com/sdK61rZ.gif" width="33%" align=right>
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
