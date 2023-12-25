@@ -4,5 +4,5 @@
 <ul>
   <li>At: EPSJ - Universidad de Jaén</li>
   <li>Computer Science, 1st year</li>
-  <li>Email me at: <a href:"mailto:jcv00036@red.ujaen.es?subject=Asunto del correo&body=Escríbeme un mensaje!">jcv00036@red.ujaen.es</a></li>
+  <li>[Email me](mailto:jcv00036@red.ujaen.es?subject=Asunto del correo&body=Escríbeme un mensaje!)</li>
 </ul>
