@@ -5,8 +5,6 @@
 
 <div align="left">
   <ul>
-    <li>At: EPSJ - Universidad de Jaén</li>
-    <li>Computer Science, 1st year</li>
     <li><a href="mailto:jcv00036@red.ujaen.es?subject=An interesting subject&body=Your message">Email me</a></li>
     <li><a href="https://jcv00036.github.io/">My web</a></li>
   </ul>
